@@ -6,7 +6,7 @@
 
 ## Contents
 
-### [Overview](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/tree/master/Overview)
+### Overview
 
 * [Module 1: Technical Overview](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Overview/Technical%20overview.MD)
 * [Module 2: Azure Monitor Role](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Overview/Azure%20Monitor%20Role.MD)
