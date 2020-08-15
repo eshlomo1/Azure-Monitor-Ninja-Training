@@ -24,6 +24,6 @@ The goal of a complete implementation of Azure Monitor is to collect all availab
 
 ### __Azure Monitor for MSP__
 
-[Azure MOnitor for MSP](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
+[Azure Monitor for MSP](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
 
 [Azure Monitor Logs for Service Providers](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/service-providers)
