@@ -14,7 +14,7 @@
 
 ### Designing Your Deployment
 
-* Module 4: Cloud architecture and multi-workspace/tenant support
+* Module 4: Architecture and Planning
 
 * Module 5: Collecting events
 
