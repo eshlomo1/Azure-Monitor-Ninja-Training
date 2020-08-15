@@ -6,7 +6,7 @@ The goal of a complete implementation of Azure Monitor is to collect all availab
 
 **Azure Architecture Architecture diagrams, reference architectures, example scenarios, and solutions for common workloads**
 
-- [Azure Architectures Compute](https://docs.microsoft.com/en-us/azure/architecture/browse/#compute)
+[Azure Architectures Compute](https://docs.microsoft.com/en-us/azure/architecture/browse/#compute)
 
 [Azure Architectures DevOps](https://docs.microsoft.com/en-us/azure/architecture/browse/#devops)
 
@@ -22,8 +22,8 @@ __Azure Monitor Pricing__
 
 [Azure Cost Management + Billing Overview](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
 
-__Azure Monitor for MSSP__
+__Azure Monitor for MSP__
 
-[MSSP Scenario](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
+[MSP Scenario](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
 
-
+[Azure Monitor Logs for Service Providers](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/service-providers)
