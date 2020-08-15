@@ -1,4 +1,4 @@
-# Module 1: Technical overview
+# Module 1: Technical Overview
 
 Note: If you want to get an initial overview of Azure Monitor technical capabilities. The presentation also serves as the Azure Monitor Level 200 presentation
 
