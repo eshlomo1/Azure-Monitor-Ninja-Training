@@ -14,7 +14,7 @@
 
 ### Designing Your Deployment
 
-* Module 4: Architecture and Planning
+* [Module 4: Architecture and Planning](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Designing%20Your%20Deployment/Module%204:%20Architecture%20and%20Planning.MD)
 
 * Module 5: Collecting events
 
