@@ -4,7 +4,7 @@ Microsoft Azure is an ever-expanding set of cloud services to help your organiza
 
 The goal of a complete implementation of Azure Monitor is to collect all available data from all of your cloud resources and applications and enable as many features in Azure Monitor as possible based on that data. Data collected by Azure Monitor is sent to either Azure Monitor Metrics or Azure Monitor Logs.
 
-**Azure Architecture Architecture diagrams, reference architectures, example scenarios, and solutions for common workloads**
+### **Azure Architecture diagrams, reference, scenarios, and solutions for common workloads**
 
 [Azure Architectures Compute](https://docs.microsoft.com/en-us/azure/architecture/browse/#compute)
 
@@ -16,14 +16,14 @@ The goal of a complete implementation of Azure Monitor is to collect all availab
 
 [Azure Architectures Containers](https://docs.microsoft.com/en-us/azure/architecture/browse/#containers)
 
-__Azure Monitor Pricing__
+### __Azure Monitor Pricing__
 
 [Azure Monitor Pricing Calculator](https://azure.microsoft.com/is-is/pricing/details/monitor/)
 
 [Azure Cost Management + Billing Overview](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
 
-__Azure Monitor for MSP__
+### __Azure Monitor for MSP__
 
-[MSP Scenario](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
+[Azure MOnitor for MSP](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
 
 [Azure Monitor Logs for Service Providers](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/service-providers)
