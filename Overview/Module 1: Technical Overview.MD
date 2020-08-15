@@ -26,12 +26,14 @@ On the right are the different functions that Azure Monitor performs with this c
 
 ### Start the Journey - Azure Monitor Webinars & Slide Deck
 
-**Azure Monitor Overview Webinar** [Azure Monitor keynote | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=PGCKUFueGHQ)
+Azure Monitor Overview Webinar** [Azure Monitor keynote | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=PGCKUFueGHQ)
 
-**Azure Monitor Overview Webinar** [Infrastructure monitoring | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=kF2rUzPIAP8)
+Azure Monitor Overview Webinar** [Infrastructure monitoring | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=kF2rUzPIAP8)
 
-**Azure Monitor Overview Webinar** [Infrastructure monitoring | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=O7scXPrsM_0)
+Azure Monitor Overview Webinar** [Infrastructure monitoring | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=O7scXPrsM_0)
 
-**Azure Monitor Fundamentals Webinar** [Azure Monitor fundamentals: What why and how](https://www.youtube.com/watch?v=XVoH2TJezIA)
+Azure Monitor Fundamentals Webinar** [Azure Monitor fundamentals: What why and how](https://www.youtube.com/watch?v=XVoH2TJezIA)
 
-**Azure Monitor Fundamentals Slide Deck** [Slide Deck](https://medius.studios.ms/video/asset/PPT/IG19-BRK2046)
+Azure Monitor Fundamentals Slide Deck** [Slide Deck](https://medius.studios.ms/video/asset/PPT/IG19-BRK2046)
+
+[Azure Sentinel, Azure Monitor, Azure Security Center and Log Analytics Relations](https://www.eshlomo.us/azure-security-sentinel-monitor-relation/)
