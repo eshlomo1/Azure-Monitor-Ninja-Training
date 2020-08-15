@@ -1,5 +1,7 @@
 # Module 1: Technical overview
 
+Note: If you want to get an initial overview of Azure Monitor technical capabilities. The presentation also serves as the Azure Monitor Level 200 presentation
+
 Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. It helps you understand how your applications are performing and proactively identifies issues affecting them and the resources they depend on.
 
 Just a few examples of what you can do with Azure Monitor include:
@@ -20,7 +22,7 @@ On the left are the sources of monitoring data that populate these data stores.
 
 On the right are the different functions that Azure Monitor performs with this collected data such as analysis, alerting, and streaming to external systems.
 
-<img src="https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Media/AzureMonitorDiagram.png">
+<img src="https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Media/AzureMonitorWS1.jpg">
 
 
 **Azure Monitor Overview Webinar** [Azure Monitor keynote | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=PGCKUFueGHQ)
