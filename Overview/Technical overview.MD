@@ -24,6 +24,7 @@ On the right are the different functions that Azure Monitor performs with this c
 
 <img src="https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Media/AzureMonitorWS1.jpg">
 
+### Start the Journey - Azure Monitor Webinars & Slide Deck
 
 **Azure Monitor Overview Webinar** [Azure Monitor keynote | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=PGCKUFueGHQ)
 
