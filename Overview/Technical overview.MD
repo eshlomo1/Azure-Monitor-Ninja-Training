@@ -28,3 +28,7 @@ On the right are the different functions that Azure Monitor performs with this c
 **Azure Monitor Overview Webinar** [Infrastructure monitoring | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=kF2rUzPIAP8)
 
 **Azure Monitor Overview Webinar** [Infrastructure monitoring | Azure Monitor Virtual Series](https://www.youtube.com/watch?v=O7scXPrsM_0)
+
+**Azure Monitor Fundamentals Webinar** [Azure Monitor fundamentals: What why and how](https://www.youtube.com/watch?v=XVoH2TJezIA)
+
+**Azure Monitor Fundamentals Slide Deck** [Slide Deck](https://medius.studios.ms/video/asset/PPT/IG19-BRK2046)
