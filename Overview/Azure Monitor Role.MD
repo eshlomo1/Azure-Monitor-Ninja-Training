@@ -1,1 +1,29 @@
-# Azure MOnitor Role 
+# Module 2: Azure Monitor Role
+
+Microsoft Azure is an ever-expanding set of cloud services to help your organization meet your business challenges. It’s the freedom to build, manage, and deploy applications on a massive, global network using your favorite tools and frameworks.
+
+The goal of a complete implementation of Azure Monitor is to collect all available data from all of your cloud resources and applications and enable as many features in Azure Monitor as possible based on that data. Data collected by Azure Monitor is sent to either Azure Monitor Metrics or Azure Monitor Logs.
+
+**Azure Architecture Architecture diagrams, reference architectures, example scenarios, and solutions for common workloads**
+
+- [Azure Architectures Compute](https://docs.microsoft.com/en-us/azure/architecture/browse/#compute)
+
+[Azure Architectures DevOps](https://docs.microsoft.com/en-us/azure/architecture/browse/#devops)
+
+[Azure Architectures Databases](https://docs.microsoft.com/en-us/azure/architecture/browse/#databases)
+
+[Azure Architectures Hybrid](https://docs.microsoft.com/en-us/azure/architecture/browse/#hybrid)
+
+[Azure Architectures Containers](https://docs.microsoft.com/en-us/azure/architecture/browse/#containers)
+
+__Azure Monitor Pricing__
+
+[Azure Monitor Pricing Calculator](https://azure.microsoft.com/is-is/pricing/details/monitor/)
+
+[Azure Cost Management + Billing Overview](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
+
+__Azure Monitor for MSSP__
+
+[MSSP Scenario](https://azure.microsoft.com/en-gb/blog/azure-lighthouse-the-managed-service-provider-perspective/)
+
+
