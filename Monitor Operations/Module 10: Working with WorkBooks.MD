@@ -1,4 +1,4 @@
-# Module 10: Working with playbooks
+# Module 10: Working with WorkBooks
 
 Azure Workbooks is a service which allows to build reports using text (in markdown) and a number of data visualization types (tables, charts, tiles, etc…). 
 
