@@ -2,7 +2,7 @@
 
 ## A Complete level 200-400 training for Azure Monitor 
 
-<img src="https://github.com/eshlomo1/AzMON_Ninja.MD/blob/master/Media/AZMON_WS.png">
+<img src="https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Media/AzureMonito_WS1.png">
 
 ## Contents
 
