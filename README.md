@@ -8,7 +8,7 @@
 
 ### Overview
 
-* [Module 1: Technical Overview](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Overview/Technical%20overview.MD)
+* [Module 1: Technical Overview](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Overview/Module%201:%20Technical%20Overview.MD)
 * [Module 2: Azure Monitor Role](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Overview/Azure%20Monitor%20Role.MD)
 * [Module 3: Azure Monitor Onboarding](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Overview/Module%203:%20Azure%20Monitor%20Onboarding.MD)
 
