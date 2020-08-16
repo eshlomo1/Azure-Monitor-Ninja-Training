@@ -18,9 +18,7 @@
 
 * [Module 5: Collecting Data](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Designing%20Your%20Deployment/Module%205:%20Collecting%20Data.MD)
 
-* Module 6: Log Management
-
-* Module 7: Integrating threat intelligence
+* [Module 7: Monitor DevOps and Application](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Designing%20Your%20Deployment/Module%207:%20Monitor%20DevOps%20and%20Application.MD)
 
 ### Monitor Operations
 
