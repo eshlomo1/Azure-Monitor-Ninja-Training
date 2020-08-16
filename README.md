@@ -34,11 +34,11 @@
 
 ### Advanced Topics
 
-* Module : Automating and integrating 
+* Module 12: Automating and integrating 
 
-* Module : Roadmap - since it requires an NDA, contact your Microsoft contact for details.
+* Module 13: Third-Patry Integration
 
-* Module : Where to go next?
+* Module 14: Roadmap and Where to go next?
 
 ### LABS
 
@@ -50,6 +50,6 @@
 
 * LAB 4: Security Monitoring (will be updated soon)
 
-### Stay Positive. DO Azure Monitor.
+## Stay Positive. DO Azure Monitor.
 
 
