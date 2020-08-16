@@ -50,7 +50,7 @@
 
 * [LAB 3: Azure Monitor Management](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/LABS/LAB%203:%20Azure%20Monitor%20%20Management.MD)
 
-* LAB 4: Security Monitoring (will be update soon)
+* LAB 4: Security Monitoring (will be updated soon)
 
 ### Stay Positive. DO Azure Monitor.
 
