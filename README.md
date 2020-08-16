@@ -24,23 +24,21 @@
 
 ### Monitor Operations
 
-* Module 8: Kusto Query Language (KQL) - the starting point
+* [Module 8: KQL Magic](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Monitor%20Operations/Module%208:%20KQL%20Magic.MD)
 
-* Module 9: Writing rules to implement detection
+* [Module 9: Notification and Action Rules](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Monitor%20Operations/Module%209:%20Notification%20and%20Action%20Rules.MD)
 
-* Module 10: Creating playbooks to implement SOAR
+* [Module 10: Working with WorkBooks](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Monitor%20Operations/Module%2010:%20Working%20with%20WorkBooks.MD)
 
 * Module 11: Creating workbooks to implement dashboards and apps
 
-* Module 12: Implementing use cases
-
 ### Advanced Topics
 
-* Module 13: Automating and integrating 
+* Module : Automating and integrating 
 
-* Module 14: Roadmap - since it requires an NDA, contact your Microsoft contact for details.
+* Module : Roadmap - since it requires an NDA, contact your Microsoft contact for details.
 
-* Module 15: Where to go next?
+* Module : Where to go next?
 
 ### LABS
 
