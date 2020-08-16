@@ -44,13 +44,13 @@
 
 ### LABS
 
-* LAB 1: Azure Monitor
+* [LAB 1: Application Insights Monitoring](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/LABS/LAB%201:%20Application%20Insights%20Monitoring.MD)
 
-* LAB 2: Azure Log Analytics
+* [LAB 2: Monitoring Application Performance](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/LABS/LAB%202:%20Monitoring%20Application%20Performance.MD)
 
-* LAB 3: Azure Application Insights
+* [LAB 3: Azure Monitor Management](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/LABS/LAB%203:%20Azure%20Monitor%20%20Management.MD)
 
-* LAB 4: Security Monitoring
+* LAB 4: Security Monitoring (will be update soon)
 
 ### Stay Positive. DO Azure Monitor.
 
