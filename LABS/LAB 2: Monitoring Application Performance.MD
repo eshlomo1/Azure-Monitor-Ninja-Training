@@ -17,4 +17,4 @@ LAB Overview
 * Task 5: Tracking application usage
 * Task 6: Creating application alerts
 
-[Monitoring Application Performance with Application Insights](https://github.com/Microsoft/azuredevopslabs/tree/master/labs/azuredevops/appinsights/)
+__[Monitoring Application Performance with Application Insights](https://github.com/Microsoft/azuredevopslabs/tree/master/labs/azuredevops/appinsights/)__
