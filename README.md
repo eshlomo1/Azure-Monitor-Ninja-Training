@@ -28,9 +28,9 @@
 
 * [Module 9: Notification and Action Rules](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Monitor%20Operations/Module%209:%20Notification%20and%20Action%20Rules.MD)
 
-* [Module 10: Working with WorkBooks](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Monitor%20Operations/Module%2010:%20Working%20with%20WorkBooks.MD)
+* [Module 10: Working with Workbooks](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Monitor%20Operations/Module%2010:%20Working%20with%20WorkBooks.MD)
 
-* Module 11: Creating workbooks to implement dashboards and apps
+* Module 11: AKS and Open Sources
 
 ### Advanced Topics
 
