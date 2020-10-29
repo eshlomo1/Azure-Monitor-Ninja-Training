@@ -52,6 +52,11 @@ Note: the contents on this repository is updated weekly
 
 * LAB 4: Security Monitoring (will be updated soon)
 
+### Azure Monitor Architecture diagrams, reference architectures and example scenarios
+
+* [Azure Monitor Diagrams](https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Diagrams/AzureMonitorDiagrams.MD)
+
+
 ## Stay Positive. DO Azure Monitor.
 
 
