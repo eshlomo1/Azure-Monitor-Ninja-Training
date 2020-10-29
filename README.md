@@ -4,7 +4,7 @@
 
 <img src="https://github.com/eshlomo1/Azure-Monitor-Ninja-Training.MD/blob/master/Media/AzureMonito_WS1.png">
 
-Note: the contents on this repository is updated weekly
+Note: the contents on this repository is updated monthly
 
 ## Contents
 
